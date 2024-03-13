@@ -58,3 +58,18 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+@media screen and (max-width: 768px)
+ {
+    table{
+        width:49%;
+        margin:15px;
+    }
+ }
+@media screen and (max-width: 580px)
+{
+    table{
+        width: 100%;
+        
+    }
+}
